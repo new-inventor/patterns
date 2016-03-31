@@ -1,6 +1,6 @@
 <?php
 
-namespace NewInventor\Singleton;
+namespace NewInventor\Patterns;
 
 trait SingletonTrait
 {
