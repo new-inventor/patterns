@@ -1,6 +1,6 @@
 {
   "name": "newInventor/singleton",
-  "description": "pattern singleton",
+  "description": "Pattern singleton trait realisation",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
@@ -18,7 +18,5 @@
     }
   },
   "require": {},
-  "require-dev": {
-    "phpunit/phpunit": "5.1.*"
-  }
+  "require-dev": {}
 }
