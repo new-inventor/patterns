@@ -1,11 +1,11 @@
 {
-  "name": "newInventor/singleton",
-  "description": "Pattern singleton trait realisation",
+  "name": "new-inventor/patterns",
+  "description": "Patterns realisation",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
-      "name": "Georgy Ionov",
+      "name": "George Ionov",
       "email": "newinventor20@gmail.com"
     }
   ],
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "NewInventor\\Abstraction\\": "src/"
+      "NewInventor\\Patterns\\": "src/"
     }
   },
   "require": {},
