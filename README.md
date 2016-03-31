@@ -1,1 +1,1 @@
-``Singleton trait
+#Design patterns
