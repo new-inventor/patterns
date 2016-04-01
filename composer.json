@@ -2,7 +2,7 @@
   "name": "new-inventor/patterns",
   "type": "library",
   "description": "Patterns realisation",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
