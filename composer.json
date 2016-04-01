@@ -1,7 +1,8 @@
 {
   "name": "new-inventor/patterns",
+  "type": "library",
   "description": "Patterns realisation",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
@@ -17,6 +18,8 @@
       "NewInventor\\Patterns\\": "src/"
     }
   },
-  "require": {},
+  "require": {
+    "php": ">=5.4.0"
+  },
   "require-dev": {}
 }
