@@ -31,7 +31,7 @@ trait SingletonTrait
             $reflection = new \ReflectionClass($calledClass);
             $instance = $reflection->newInstanceWithoutConstructor();
             self::getMethod($reflection, $initMethodName)->invokeArgs($instance, $args);
-            self::$instance = new static();
+            self::$instance = $instance;
         }
 
         return self::$instance;
